@@ -1,3 +1,9 @@
+"""
+Name: Ping-Pong
+Author: Joey Burgee
+Date: March 8, 2018
+"""
+
 # IMPORT MODULES
 import pygame as pg
 import random
